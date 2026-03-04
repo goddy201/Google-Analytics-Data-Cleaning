@@ -51,3 +51,4 @@ Device-based optimization strategies
 
 Time-based trend analysis
 
+- <a href = "https://github.com/goddy201/Google-Analytics-Data-Cleaning/blob/main/google_ad_analytics.sql"> Query</a>
