@@ -50,4 +50,4 @@ Geographic performance analysis
 Device-based optimization strategies
 
 Time-based trend analysis
-- <a href = 
+- <a href = "https://goddy201.github.io/Google-Analytics-Data-Cleaning/google_ad_analytics.sql"> Query</a>
